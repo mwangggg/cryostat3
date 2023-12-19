@@ -136,3 +136,4 @@ Generate k8s yaml configurations and apply them to create k8s objects. You can o
 $ bash smoketest.bash generate apply
 $ bash smoketest.bash forward # if you need to use port-forwarding to get access to the cluster's services
 ```
+hola
